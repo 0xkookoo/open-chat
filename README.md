@@ -19,6 +19,7 @@ OpenChat is a fully featured chat application running end-to-end on the Internet
   - If sometimes there is some issues, run `rm -rf .dfx` and rerun `dfx start` may resolve them
 ![canister-dashboard](image.png)
 - To run the open-chat website, consider this part as starting front-end services
+  - Under path `./frontend`, run `npm install`. If there are any other new dependencies needed, please install them accordingly
   - Under path `./frontend/app`, create and save `.env` file with same content from `.env-template` file
   - Under path `./frontend/app`, run `npm run dev`
 ![website-homepage](image-1.png)

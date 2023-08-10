@@ -23,9 +23,6 @@
   ],
   "devDependencies": {
     "auto-changelog": "open-chat-labs/auto-changelog#master",
-    "turbo": "^1.10.12"
-  },
-  "dependencies": {
-    "dotenv": "^16.3.1"
+    "turbo": "^1.5.6"
   }
 }
